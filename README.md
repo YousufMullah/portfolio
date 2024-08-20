@@ -1,18 +1,24 @@
-<h1 align="center">Hi 👋, I'm Yousuf Mulla</h1>
-<h3 align="center">Data Scientist</h3>
+# Data Scientist
 
-- 🔭 I’m currently working on **AI interview Bot**
+### Technical Skills: Python, SQL, BI Tools (Power BI, Tableau, Alteryx)
 
-- 🌱 I’m currently learning **Machine Learning and NLP**
+## Education
+- Bachelor of Sciences in Computer Science | Sir Syed University of Engineering and Technology
+- O Levels - A Levels
 
-- 💬 Ask me about **Data analysis, Python, SQL**
+## Work Experience
+** AI trainee | Arcana info (_Nov 2023 - April - 2024_)
+- Explored AI solutions like IBM Watsonx and Dataiku, including model development, cloud/on-prem (Linux) deployment, and configuration.
+- Gained experience with new tools for AI integration, such as RPA (Automation Anywhere) and BPM (IBM BAW) for workflow automation.
 
-- 📫 How to reach me **myousufzakir@gmail.com**
+** Data Science trainee | Techma Zone (_Oct 2022 - July - 2023_)
+- Data Preprocessing & Insights: Clean and validate data from sources like MongoDB and deliver actionable insights using Power BI, Python, and SQL, as well as deploy solutions on the cloud.
+- Machine Learning with Statistical Analysis: Develop classification (e.g., music genre) and regression models and perform sampling, hypothesis testing, and prediction modelling (e.g., T20 Cricket World Cup, movie recommendation systems).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-yousuf-mulla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-yousuf-mulla/" height="30" width="40" /></a>
-</p>
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
